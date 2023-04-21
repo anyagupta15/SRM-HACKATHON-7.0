@@ -36,6 +36,13 @@ and other useful information that can help you get to your destination quickly a
 this app is an excellent choice for developers looking to create their own AR navigation projects.
 
 Have appended a google drive containing images of the GUI
-The .apk files present in the repo are the versions of our app that we kept on updating and reviewing with each new change, 
+The .apk files present in![photo_2023-04-21_11-02-25]
+ the repo are the versions of our app that we kept on updating and reviewing with each new change, 
 the .apk file might not be compatible with all 'Android' devices and hence might require upgradation and assistance by the team members for actual viewing.
 We've pre-selected few routes in the SRM Campus and hence presence on the start location might be required for successful demonstration of the app.
+
+
+![indoor](https://user-images.githubusercontent.com/86960535/233586923-950cdcbb-512e-42d3-a6ed-fbf176048240.jpg)
+![indoor navigation kml demo](https://user-images.githubusercontent.com/86960535/233586930-61894d81-21a8-4313-a2f8-1c5985055815.jpg)
+![photo_2023-04-21_11-02-25](https://user-images.githubusercontent.com/86960535/233586972-4ae2779d-49d5-4440-bef5-b1ec2c47317a.jpg)
+
